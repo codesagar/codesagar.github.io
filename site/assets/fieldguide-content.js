@@ -128,7 +128,7 @@ window.FIELDGUIDE = {
     },
     {
       "title": "M.S. Computer Science",
-      "detail": "The University of Texas at Austin · In progress · One course per semester",
+      "detail": "The University of Texas at Austin · In progress",
       "status": "Continuous learning"
     }
   ],
